@@ -78,7 +78,7 @@ rm github.txt
 
 ## ⚙️ 使用
 
-![Preview](https://raw.githubusercontent.com/zhioak/pics/master/picgo/2026-01/alfred-2fa-totp-preview-86198a04b337f2139a95c575b01f0e38.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/pics/master/picgo/2026-01/alfred-2fa-totp-preview-86198a04b337f2139a95c575b01f0e38.png)
 
 ## 特别鸣谢
 
