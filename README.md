@@ -9,7 +9,7 @@
 将对应的TOTP二维码解析，其中`SECRET`就是TOTP对应的秘钥
 
 ```bash
-otpauth://totp/zhioak?secret=SECRET&issuer=111
+otpauth://totp/joeyee233?secret=SECRET&issuer=111
 ```
 
 安装授权工具
